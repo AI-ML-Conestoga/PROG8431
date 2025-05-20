@@ -1,0 +1,17 @@
+education,education_num,education_id
+ Bachelors,13,1
+ HS-grad,9,2
+ 11th,7,3
+ Masters,14,4
+ 9th,5,5
+ Some-college,10,6
+ Assoc-acdm,12,7
+ Assoc-voc,11,8
+ 7th-8th,4,9
+ Doctorate,16,10
+ Prof-school,15,11
+ 5th-6th,3,12
+ 10th,6,13
+ 1st-4th,2,14
+ Preschool,1,15
+ 12th,8,16

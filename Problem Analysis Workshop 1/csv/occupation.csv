@@ -1,0 +1,16 @@
+occupation,occupation_id
+ Adm-clerical,1
+ Exec-managerial,2
+ Handlers-cleaners,3
+ Prof-specialty,4
+ Other-service,5
+ Sales,6
+ Craft-repair,7
+ Transport-moving,8
+ Farming-fishing,9
+ Machine-op-inspct,10
+ Tech-support,11
+NaN,12
+ Protective-serv,13
+ Armed-Forces,14
+ Priv-house-serv,15
