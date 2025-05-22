@@ -1,0 +1,17 @@
+1. mean == sum of points / no of points
+
+2. median  
+		arrange in ascending
+
+		Arrange in ascending order: 1, 2, 4, 5, 7, 8, 9. 
+		Number of data points: There are 7 data points, which is odd. 
+		Find the median: (7 + 1) / 2 = 4. The 4th value in the ordered list is 5, so the median is 5. 
+
+3. mode is repeating value
+
+4. variance = summation( (each item in the col - mean)^2)/(total number of rows - 1)
+
+5. SD is square root of variance
+
+6. quartile https://www.mathsisfun.com/data/quartiles.html (25%,50%,75%)
+
