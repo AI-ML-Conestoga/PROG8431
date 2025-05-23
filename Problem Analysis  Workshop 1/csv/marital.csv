@@ -1,4 +1,4 @@
-marital_status,marital_id
+marital-status,marital_status_id
  Never-married,1
  Married-civ-spouse,2
  Divorced,3
